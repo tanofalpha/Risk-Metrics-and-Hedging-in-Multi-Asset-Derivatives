@@ -1,0 +1,2 @@
+This project presents a practical implementation of a multi-asset risk management engine using derivatives, including equity options, bonds, and FX forwards. The objective is to compute risk metrics (Greeks, DV01), simulate portfolio value under shocks,
+and construct basic hedging strategies. The project utilizes Black-Scholes pricing, bond PV models, and FX parity relations implemented in Python.
